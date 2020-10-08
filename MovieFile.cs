@@ -32,6 +32,8 @@ namespace MediaLibrary
                         movie.mediaId = UInt64.Parse(movieDetails[0]);
                         movie.title = movieDetails[1];
                         movie.genres = movieDetails[2].Split('|').ToList();
+                        movie.director = movieDetails[3];
+                        movie.runningTime = TimeSpan.Parse(movieDetails[4]);
             
                     }
                     else

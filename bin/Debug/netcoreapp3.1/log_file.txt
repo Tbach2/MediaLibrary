@@ -39,3 +39,84 @@
 2020-10-07 21:30:55.6587|INFO|MediaLibrary.Program|User choice: "2"
 2020-10-07 21:32:01.9205|INFO|MediaLibrary.Program|User choice: ""
 2020-10-07 21:32:01.9205|INFO|MediaLibrary.Program|Program ended
+2020-10-07 21:40:33.0379|INFO|MediaLibrary.Program|Program started
+2020-10-07 21:40:33.0697|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 21:40:33.0737|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 21:40:33.0909|INFO|MediaLibrary.MovieFile|Movies in file 9125
+2020-10-07 21:40:34.0089|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 21:43:23.3781|INFO|MediaLibrary.Program|User choice: "1"
+2020-10-07 21:43:46.7043|INFO|MediaLibrary.MovieFile|Movie id 164981 added
+2020-10-07 21:44:18.8793|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 21:49:31.1600|INFO|MediaLibrary.Program|User choice: ""
+2020-10-07 21:49:31.1658|INFO|MediaLibrary.Program|Program ended
+2020-10-07 21:49:35.9496|INFO|MediaLibrary.Program|Program started
+2020-10-07 21:49:35.9805|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 21:49:35.9805|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 21:49:36.0045|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 21:49:36.4010|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 21:55:17.9229|INFO|MediaLibrary.Program|User choice: ""
+2020-10-07 21:55:17.9229|INFO|MediaLibrary.Program|Program ended
+2020-10-07 21:55:22.5479|INFO|MediaLibrary.Program|Program started
+2020-10-07 21:55:22.5783|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 21:55:22.5783|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 21:55:22.5981|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 21:55:24.1979|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 21:57:30.4735|INFO|MediaLibrary.Program|User choice: ""
+2020-10-07 21:57:30.4794|INFO|MediaLibrary.Program|Program ended
+2020-10-07 21:57:37.2758|INFO|MediaLibrary.Program|Program started
+2020-10-07 21:57:37.3063|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 21:57:37.3063|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 21:57:37.3288|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 21:57:38.2299|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 21:58:47.4474|INFO|MediaLibrary.Program|User choice: ""
+2020-10-07 21:58:47.4474|INFO|MediaLibrary.Program|Program ended
+2020-10-07 21:58:51.1025|INFO|MediaLibrary.Program|Program started
+2020-10-07 21:58:51.1331|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 21:58:51.1373|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 21:58:51.1551|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 21:58:51.5845|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:01:54.3914|INFO|MediaLibrary.Program|User choice: ""
+2020-10-07 22:01:54.3914|INFO|MediaLibrary.Program|Program ended
+2020-10-07 22:01:58.3433|INFO|MediaLibrary.Program|Program started
+2020-10-07 22:01:58.3748|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 22:01:58.3748|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 22:01:58.3968|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 22:02:00.2395|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:03:17.9685|INFO|MediaLibrary.Program|User choice: ""
+2020-10-07 22:03:17.9685|INFO|MediaLibrary.Program|Program ended
+2020-10-07 22:03:22.4924|INFO|MediaLibrary.Program|Program started
+2020-10-07 22:03:22.5235|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 22:03:22.5280|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 22:03:22.5458|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 22:03:24.2293|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:06:25.9313|INFO|MediaLibrary.Program|User choice: "d"
+2020-10-07 22:06:25.9369|INFO|MediaLibrary.Program|Program ended
+2020-10-07 22:06:30.0961|INFO|MediaLibrary.Program|Program started
+2020-10-07 22:06:30.1263|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 22:06:30.1263|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 22:06:30.1467|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 22:06:31.7571|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:08:01.7820|INFO|MediaLibrary.Program|User choice: "dotnet"
+2020-10-07 22:08:01.7820|INFO|MediaLibrary.Program|Program ended
+2020-10-07 22:08:05.2935|INFO|MediaLibrary.Program|Program started
+2020-10-07 22:08:05.3240|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 22:08:05.3240|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 22:08:05.3459|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 22:08:15.8562|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:11:38.4909|INFO|MediaLibrary.Program|User choice: ""
+2020-10-07 22:11:38.4963|INFO|MediaLibrary.Program|Program ended
+2020-10-07 22:11:46.4470|INFO|MediaLibrary.Program|Program started
+2020-10-07 22:11:46.4773|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 22:11:46.4815|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 22:11:46.4988|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 22:11:48.1728|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:14:43.1791|INFO|MediaLibrary.Program|User choice: "dotnet ru"
+2020-10-07 22:14:43.1835|INFO|MediaLibrary.Program|Program ended
+2020-10-07 22:14:48.6662|INFO|MediaLibrary.Program|Program started
+2020-10-07 22:14:48.6987|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 22:14:48.6987|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 22:14:48.7252|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 22:14:51.2738|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:17:57.5366|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:20:39.0836|INFO|MediaLibrary.Program|User choice: ""
+2020-10-07 22:20:39.0896|INFO|MediaLibrary.Program|Program ended
