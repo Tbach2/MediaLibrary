@@ -120,3 +120,13 @@
 2020-10-07 22:17:57.5366|INFO|MediaLibrary.Program|User choice: "2"
 2020-10-07 22:20:39.0836|INFO|MediaLibrary.Program|User choice: ""
 2020-10-07 22:20:39.0896|INFO|MediaLibrary.Program|Program ended
+2020-10-07 22:28:26.6826|INFO|MediaLibrary.Program|Program started
+2020-10-07 22:28:26.7162|INFO|MediaLibrary.FileScrubber|File already scrubbed
+2020-10-07 22:28:26.7162|INFO|MediaLibrary.Program|movies.scrubbed.csv
+2020-10-07 22:28:26.7436|INFO|MediaLibrary.MovieFile|Movies in file 9126
+2020-10-07 22:29:13.3814|INFO|MediaLibrary.Program|User choice: "1"
+2020-10-07 22:29:25.2953|INFO|MediaLibrary.MovieFile|Movie id 164982 added
+2020-10-07 22:29:29.2380|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:30:09.5480|INFO|MediaLibrary.Program|User choice: "2"
+2020-10-07 22:30:47.9657|INFO|MediaLibrary.Program|User choice: ""
+2020-10-07 22:30:47.9657|INFO|MediaLibrary.Program|Program ended
